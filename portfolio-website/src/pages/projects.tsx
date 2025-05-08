@@ -11,7 +11,7 @@ function Projects() {
       <p>Here are some of my projects that I've worked on, both in and out of school</p>
       <p>As I further my technical growth and build newer, stronger projects, I will add them here</p>
       <ul>
-        <li><a href='https://github.com/csis225f24/ps4-n29lodg'>Koch Curves (in school project)</a></li>
+        <li><a href='https://github.com/csis225f24/ps4-n29lodg'><u>Koch Curves (in school project)</u></a></li>
         <ul>
             <li>Uses Java Swing for graphics</li>
             <li>Draw a line, use button to advance to the next stage in the koch curve fractal <a href='https://www.geeksforgeeks.org/koch-curve-koch-snowflake/'>(Click here to learn more about the koch snowflake)</a></li>
