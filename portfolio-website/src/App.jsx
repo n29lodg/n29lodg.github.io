@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Routes, Link } from 'react-router-dom'
 import Projects from './pages/projects'
 import Skills from './pages/skills'
 import Contact from './pages/contact'
+import Home from './pages/home'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -14,7 +15,7 @@ function App() {
         {/* <NavBar /> */}
       </body>
       <Routes>
-        <Route path="/" element={<h1>Home</h1>} />
+        <Route path="/" element={<Home />} />
         <Route path="/skills" element={<Skills />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />

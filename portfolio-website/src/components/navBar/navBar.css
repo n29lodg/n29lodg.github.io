@@ -22,9 +22,10 @@ li a:hover {
     position: sticky;
     top: 0;
     background-color: #faf9f6;  
-    padding: 20px;
-    margin: 20px;
+    padding: 2px;
+    margin: 2px;
     z-index: 1000;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     border-radius: 8px;
+    accent-color: black;
   }
