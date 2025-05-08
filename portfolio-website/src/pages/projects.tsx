@@ -8,15 +8,24 @@ function Projects() {
     <div className='projects-page-container'>
         <NavBar/>
       <h1>Projects</h1>
-      <p>Here are some of my projects.</p>
+      <p>Here are some of my projects that I've worked on, both in and out of school</p>
       <ul>
-        <li><a href='https://github.com/csis225f24/ps4-n29lodg'>Koch Curves (in school)</a></li>
+        <li><a href='https://github.com/csis225f24/ps4-n29lodg'>Koch Curves (in school project)</a></li>
         <ul>
             <li>Uses Java Swing for graphics</li>
             <li>Draw a line, use button to advance to the next stage in the koch curve fractal <a href='https://www.geeksforgeeks.org/koch-curve-koch-snowflake/'>(Click here to learn more about the koch snowflake)</a></li>
         </ul>
         <li>Software engineering in school project (secret)</li>
+          <ul>
+            <li>Under an NDA for this in-school project, working for an outside client</li>
+            <li>Learned the agile scrum process, worked closely with my team as our scrum master</li>
+          </ul>
         <li>Media vault (personal project, work in progress)</li>
+          <ul>
+            <li>Personal full stack project I am in the early stages of working on, plan is to be complete in summer 25'</li>
+            <li>This project will allow users to create an account, and keep track of their favorite media by having both a wishlist, and allow users to keep track of what they've already done</li>
+            <li>Media in question: Video games, music albums, tv shows/movies, and more!</li>
+          </ul>
       </ul>
     </div>
   );
