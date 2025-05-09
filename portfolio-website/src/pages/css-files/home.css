@@ -6,17 +6,18 @@
     background-color: #faf9f6;
 }
 
-.page-contents {
-    /* display: flex; */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+#page-contents {
+    display: flex;
+    
     border-radius: 32px;
     padding: 8px;
     margin: 16px;
+    flex-direction: row;
     
 }
 
-.contents-container {
-    justify-content: space-around;
+#contents-container {
+    flex-direction: row;
 }
 
 .box {
@@ -24,5 +25,7 @@
 }
 
 #information {
-
+    flex-direction: column;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
 }
