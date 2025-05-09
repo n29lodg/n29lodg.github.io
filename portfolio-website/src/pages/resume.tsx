@@ -1,10 +1,13 @@
 import React from "react";
 import NavBar from "../components/navBar/navBar";
+import './css-files/resume.css';
 
-function resume() {
+function Resume() {
     return(
-        <div>
+        <div className="resume-page-container">
             <NavBar />
         </div>
     );
 }
+
+export default Resume;

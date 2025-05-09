@@ -5,9 +5,10 @@ import Projects from './pages/projects'
 import Skills from './pages/skills'
 import Contact from './pages/contact'
 import Home from './pages/home'
+import Resume from './pages/resume'
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <BrowserRouter>
@@ -19,6 +20,7 @@ function App() {
         <Route path="/skills" element={<Skills />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/resume" element={<Resume />} />
       </Routes>
     </BrowserRouter>
   )

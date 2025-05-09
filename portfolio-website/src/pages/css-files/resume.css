@@ -1,0 +1,7 @@
+.resume-page-container {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 40px;
+    background-color: #faf9f6;
+}
