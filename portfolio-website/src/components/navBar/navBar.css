@@ -3,7 +3,7 @@
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
     padding-right: 40px;
 }
 
@@ -28,7 +28,7 @@ li a:hover {
     margin: 2px;
     z-index: 1000;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    border-radius: 8px;
+    border-radius: 256px;
     accent-color: black;
     display: inline-flex;
   }

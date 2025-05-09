@@ -14,6 +14,14 @@ function Home() {
                 </div>
 
                 <div id="information" className="flex">
+                    <div id="resume" className="box">
+                        <h3>Resume:</h3>
+                        <a href="https://docs.google.com/document/d/1Ec0_pxhQQk8n2fjsOz10pHX8X7z3Ko8THU183AzZRNs/edit?usp=sharing">
+                            <p>
+                                
+                            </p>
+                        </a>
+                    </div>
                     <div id="about-me" className="box">
                         <p>
                             My name is Nicholas Lodge, and I'm a 21 year old computer science and data science dual major graduand at Siena College in Albany, New York.

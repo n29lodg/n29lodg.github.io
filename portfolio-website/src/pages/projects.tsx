@@ -1,6 +1,5 @@
 import React from 'react';
 import NavBar from '../components/navBar/navBar';
-
 import  './css-files/projects.css';
 
 function Projects() {
