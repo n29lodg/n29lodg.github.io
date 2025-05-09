@@ -7,9 +7,22 @@
 }
 
 .page-contents {
-    display: flex;
+    /* display: flex; */
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     border-radius: 32px;
     padding: 8px;
     margin: 16px;
+    
+}
+
+.contents-container {
+    justify-content: space-around;
+}
+
+.box {
+    display: flex;
+}
+
+#information {
+
 }

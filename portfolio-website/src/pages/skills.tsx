@@ -32,7 +32,7 @@ function Skills() {
             </ul>
         </div>
         <div id='courses-list'>
-            <p>Courses taken:</p>
+            <p>Relevent courses taken:</p>
             <ul>
                 <li>Data Structures</li>
                 <li>Algorithms</li>
