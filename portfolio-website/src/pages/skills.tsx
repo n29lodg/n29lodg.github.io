@@ -9,7 +9,7 @@ function Skills() {
       <h1>Technical skills!</h1>
       <p>Thanks to my coursework I have learned many new technical skills that I will
         put into two categories, proficient, and familiar. Proficient in my eyes means that I have strong
-        knowledge in that area, while familiar to me means that I understand what the technology is used for, but would need further learning or help to apply it.
+        knowledge in that area, while familiar to me means that I understand what the technology is used for, but would need further learning or help to apply it effectively.
       </p>
 
       <p>Proficient:</p>
