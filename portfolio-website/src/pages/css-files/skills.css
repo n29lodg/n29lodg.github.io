@@ -5,3 +5,21 @@
     margin: 40px;
     background-color: #faf9f6;
 }
+
+#info-container {
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 32px;
+    padding: 8px;
+    margin: 16px;
+    justify-content: space-between;
+}
+
+#skills-list {
+    margin: auto;
+    
+}
+
+#courses-list {
+    margin: auto;
+}
