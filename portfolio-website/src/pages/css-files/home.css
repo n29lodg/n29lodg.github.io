@@ -8,16 +8,19 @@
 
 #page-contents {
     display: flex;
-    
     border-radius: 32px;
     padding: 8px;
     margin: 16px;
     flex-direction: row;
-    
+    align-items: center;
 }
 
 #contents-container {
     flex-direction: row;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px;
+    display: sticky;
 }
 
 .box {
@@ -28,4 +31,5 @@
     flex-direction: column;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     padding: 20px;
+    margin: 20px;
 }

@@ -9,7 +9,7 @@ function Home() {
             <div id="page-contents">
                 <div id="contents-container" className="box">
                     <div id="profile-card" className="box">
-                        <p></p>
+                        <p>Adding picture, linkedIn, Github soon!</p>
                     </div>
                 </div>
 
