@@ -6,6 +6,6 @@
     background-color: #faf9f6;
 }
 
-li a:hover {
+li>a:hover {
     color: blue;
 }

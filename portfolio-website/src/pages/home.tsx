@@ -9,7 +9,7 @@ function Home() {
             <div id="page-contents">
                 <div id="contents-container" className="box">
                     <div id="profile-card" className="box">
-                        <p>Adding picture, linkedIn, Github soon!</p>
+                        <p>Adding picture, linkedIn, Github links here soon!</p>
                     </div>
                 </div>
 
@@ -18,7 +18,13 @@ function Home() {
                         <h3>Resume:</h3>
                         <a href="https://docs.google.com/document/d/1Ec0_pxhQQk8n2fjsOz10pHX8X7z3Ko8THU183AzZRNs/edit?usp=sharing">
                             <p>
-                                
+                                Comp-Sci version
+                            </p>
+                        </a>
+                        <p> | </p>
+                        <a>
+                            <p>
+                                Data Science version (work in progress)
                             </p>
                         </a>
                     </div>
@@ -34,7 +40,7 @@ function Home() {
                     <div id="interests" className="box">
                         <p>
                             Some of my interests and hobbies include sports, video games, and music. I'm a big NBA fan and love the Boston Celtics. I also like soccer and I support AC Milan. 
-                            I like to play a variety of video games such as Minecraft, Pokemon, FIFA, and a further variety of RPG's. Lastly, I enjoy listening to music all the time for any given reason, 
+                            I like to play a variety of video games such as Minecraft, Pokemon, FIFA, and a further variety of RPG's. Lastly, I enjoy listening to music all the time for any given reason, and my favorite artist is Mac Miller.
                         </p>
                     </div>
                 </div>
