@@ -3,11 +3,14 @@ import { createRoot } from 'react-dom/client'
 import ReactDOM from 'react-dom/client';
 import './index.css'
 import App from './App.jsx'
+import { BrowserRouter } from 'react-router-dom';
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-   </StrictMode>, 
+  <React.StrictMode>
+    <BrowserRouter basename='/website'>
+      <App />
+    </BrowserRouter>
+   </React.StrictMode>, 
 )
 
 // const root = ReactDOM.createRoot(document.getElementById('root'));

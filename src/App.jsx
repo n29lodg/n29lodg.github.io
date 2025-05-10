@@ -9,11 +9,10 @@ function App() {
   // const [count, setCount] = useState(0)
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/website'>
       <body>
         {/* <NavBar /> */}
       </body>
-      <p>test code</p>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/skills" element={<Skills />} />
