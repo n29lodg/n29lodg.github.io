@@ -13,6 +13,7 @@ function App() {
       <body>
         {/* <NavBar /> */}
       </body>
+      <p>test code</p>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/skills" element={<Skills />} />
